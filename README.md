@@ -11,7 +11,7 @@
 * Android Studio
 	
 	```
-	compile 'com.zhy:okhttputils:2.6.2'
+	implementation 'com.zhy:okhttputils:2.6.2'
 	```
 	
 * Eclipse
